@@ -1,2 +1,2 @@
 # HFT-HPC
-Parrallel Computing on HFT
+Parallel Computing on HFT
